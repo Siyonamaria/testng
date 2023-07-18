@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-18T12:04:45 IST" name="Default suite" finished-at="2023-07-18T12:04:45 IST" duration-ms="90">
+    <groups>
+    </groups>
+    <test started-at="2023-07-18T12:04:45 IST" name="Default test" finished-at="2023-07-18T12:04:45 IST" duration-ms="90">
+      <class name="TestNG.Test01">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestNG.Test01@4b29d1d2]" started-at="2023-07-18T12:04:45 IST" name="launchBrowser" finished-at="2023-07-18T12:04:45 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:TestNG.Test01@4b29d1d2]" started-at="2023-07-18T12:04:45 IST" name="login" finished-at="2023-07-18T12:04:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="composemailTest()[pri:1, instance:TestNG.Test01@4b29d1d2]" started-at="2023-07-18T12:04:45 IST" name="composemailTest" finished-at="2023-07-18T12:04:45 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- composemailTest -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:TestNG.Test01@4b29d1d2]" started-at="2023-07-18T12:04:45 IST" name="logout" finished-at="2023-07-18T12:04:45 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="deletetesxt()[pri:2, instance:TestNG.Test01@4b29d1d2]" started-at="2023-07-18T12:04:45 IST" name="deletetesxt" finished-at="2023-07-18T12:04:45 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletetesxt -->
+        <test-method is-config="true" signature="login()[pri:0, instance:TestNG.Test01@4b29d1d2]" started-at="2023-07-18T12:04:45 IST" name="login" finished-at="2023-07-18T12:04:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:TestNG.Test01@4b29d1d2]" started-at="2023-07-18T12:04:45 IST" name="logout" finished-at="2023-07-18T12:04:45 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:TestNG.Test01@4b29d1d2]" started-at="2023-07-18T12:04:45 IST" name="login" finished-at="2023-07-18T12:04:45 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="searchmailtext()[pri:3, instance:TestNG.Test01@4b29d1d2]" started-at="2023-07-18T12:04:45 IST" name="searchmailtext" finished-at="2023-07-18T12:04:45 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchmailtext -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:TestNG.Test01@4b29d1d2]" started-at="2023-07-18T12:04:45 IST" name="logout" finished-at="2023-07-18T12:04:45 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:TestNG.Test01@4b29d1d2]" started-at="2023-07-18T12:04:45 IST" name="quitBrowser" finished-at="2023-07-18T12:04:45 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- TestNG.Test01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
